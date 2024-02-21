@@ -3,11 +3,5 @@
   "appFolders": [],
   "testFolders": [],
   "artifact": "https://bcartifacts.azureedge.net/sandbox/23.0.12034.13450/w1",
-  "repoVersion": "1.1",
-  "appDependencyProbingPaths": [
-    {
-      "repo": "exbc/Common",
-      "release_status": "latestBuild"
-    }
-  ]
+  "repoVersion": "1.1"
 }
