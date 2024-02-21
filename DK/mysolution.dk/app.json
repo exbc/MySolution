@@ -11,13 +11,13 @@
   "url": "",
   "logo": "",
   "dependencies": [
-    {  
+    {
       "id": "e9606b8b-ac26-45fb-ac97-e6a9c7a84c83",
-  "name": "mysolution.w1",
-  "publisher": "gerry",
-  "version": "1.0.0.0"
-}
-],
+      "name": "mysolution.w1",
+      "publisher": "gerry",
+      "version": "1.0.0.0"
+    }
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
